@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 python hot-server
 ===========
 
@@ -26,3 +27,9 @@ Reconnect to the server and send the reload:
 
 You wont get any answer.
 
+=======
+hotserver
+=========
+
+Erlang's awesome hot-code-reloading in python
+>>>>>>> b53d53bf91a354457962ab886aafd037de7c264c
