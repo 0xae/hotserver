@@ -1,9 +1,8 @@
-python hot-server
+hotserver
 ===========
 
 This is an implementation of Erlang's awesome hot-code-reloading
-in python.
-It is very simple and highly readable(duhhh it's python).
+in python.It is very simple and highly readable(duhhh it's python).
 
 ### Example
 First start the server:
