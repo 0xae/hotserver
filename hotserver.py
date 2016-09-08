@@ -37,8 +37,8 @@ def spawn_server(host, port):
 
 if __name__ == '__main__':
   if len(sys.argv) != 3:
-    print "Usage python hotserver.py <host> <port>"
-    sys.exit(1)
+      print "Usage python hotserver.py <host> <port:Integer>"
+      sys.exit(1)
 
   host = sys.argv[1]
   port = int(sys.argv[2])
