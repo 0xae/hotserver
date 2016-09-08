@@ -36,5 +36,3 @@ Basically when you changed the hotserver.py and
 sent the 'reload', the server updated the
 callback function he was using.
 
-### Note
-Please dont try this at home, with Java!
