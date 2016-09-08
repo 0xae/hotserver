@@ -41,5 +41,6 @@ callback function he was using.
 * Multi-thread server
 * Async/NIO server
 * More tests
+* Automatic Reload
 * Cats
 
